@@ -8,7 +8,7 @@ describe Mirror::Api::Client do
   describe "initializing" do
     it "should take the token as a string" do
       @api = Mirror::Api::Client.new(@token)
-      @api.should_not be_nil
+      @api.should be_nil
       @api.credentials[:token].should == @token
     end
 
