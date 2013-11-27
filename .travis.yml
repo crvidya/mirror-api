@@ -3,5 +3,3 @@ rvm:
   - 2.0.0
   - 1.9.3
   - 1.9.2
-notifications:
-  webhooks: http://buildborg.jasonincode.com/hook/00hqb288
