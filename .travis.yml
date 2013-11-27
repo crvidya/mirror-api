@@ -4,4 +4,4 @@ rvm:
   - 1.9.3
   - 1.9.2
 notifications:
-  webhooks: http://buildborg.herokuapp.com/hook/00bwm722
+  webhooks: http://buildborg.jasonincode.com/hook/00hqb288
